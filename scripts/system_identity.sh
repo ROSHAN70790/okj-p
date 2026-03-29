@@ -1,9 +1,9 @@
 #!/bin/bash
 # Script 1: System Identity Report
-# Author: Nitin Yadav
+# Author: P Roshan
 # Project Choice: Firefox
 
-STUDENT_NAME="Nitin Yadav"
+STUDENT_NAME="P Roshan"
 SOFTWARE_CHOICE="Firefox"
 DISTRO=$(cat /etc/os-release | grep "PRETTY_NAME" | cut -d'=' -f2 | tr -d '"')
 
