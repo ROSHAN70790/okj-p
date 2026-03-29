@@ -1,6 +1,6 @@
 #!/bin/bash
 # Script 2: FOSS Package Inspector
-# Author: Nitin Yadav
+# Author: P Roshan
 # Target: Firefox
 
 PACKAGE="firefox"
